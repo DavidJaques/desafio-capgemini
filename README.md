@@ -1,8 +1,8 @@
-\# Desafio Capgemini
+# Desafio Capgemini
 
  
 
-\## Desafio 1 
+## Desafio 1 
 
  
 
@@ -14,13 +14,13 @@ Depois foi criado uma variável int q = n-1, para colocar a quantidade de espaç
 
  
 
-\## Desafio 2
+## Desafio 2
 
 No desafio 2 tinha que se fazer um código para auxiliar na criação de senhas fortes, mostrando quantos dígitos ainda faltava para se fazer uma senha forte.
 
  
 
-\## Desafio 3
+## Desafio 3
 
 No desafio 3 deveria ser feito um programa que verificasse quais partes de uma string eram anagramas, não consegui solucionar esse desafio fazendo assim um programa que verificava letras repetidas dentro da mesma palavra.
 
