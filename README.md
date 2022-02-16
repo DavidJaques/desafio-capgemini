@@ -1,35 +1,21 @@
 # Desafio Capgemini
 
- 
+ Os desafio foram feitos em java.
 
 ## Desafio 1 
 
- 
-
-No primeiro desafio foi proposto que se fizesse uma escada de asteriscos de tamanho n.
-
-No começo foi criado dois for para serem criadas 6 linhas com 6 asteriscos.
-
-Depois foi criado uma variável int q = n-1, para colocar a quantidade de espaços correta em cada linha, para assim se dar o formato de escada.
+No primeiro desafio o usuário entra com um numero inteiro e o programa gera uma escada desse mesmo tamanha.
 
  
 
 ## Desafio 2
 
-No desafio 2 tinha que se fazer um código para auxiliar na criação de senhas fortes, mostrando quantos dígitos ainda faltava para se fazer uma senha forte.
+Neste desafio o usuário entra com uma senha e o programa retorna a quantidade caracteres que faltam para a senha possuir 6 digitos.
 
  
 
 ## Desafio 3
 
-No desafio 3 deveria ser feito um programa que verificasse quais partes de uma string eram anagramas, não consegui solucionar esse desafio fazendo assim um programa que verificava letras repetidas dentro da mesma palavra.
-
+No desafio 3 o usuário entra com uma palavra e o programa retorna quantas letras estão repetidas dentro dessa mesma string.
  
 
-E assim foram feitos os desafios, 
-
-Agradeço a Academia Capgemini pelos Desafio propostos 
-
- 
-
-David Jaques
